@@ -1,0 +1,303 @@
+ArraySize: 25000
+Interval: 1000
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 823 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 866 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 872 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 878 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 886 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 891 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 896 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 903 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 908 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 913 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 918 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 924 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 929 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 934 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 939 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 946 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 951 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 956 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 961 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 966 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 971 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 977 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 982 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 987 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 992 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 998 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3136 KB
+StackSize: 1472 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 1117 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3520 KB
+StackSize: 1537 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 1215 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 3784 KB
+StackSize: 1608 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 1306 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 4048 KB
+StackSize: 1678 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 1396 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 4312 KB
+StackSize: 1748 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 1485 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 4576 KB
+StackSize: 1819 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 1585 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 4840 KB
+StackSize: 1889 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 1680 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 5104 KB
+StackSize: 1959 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 1758 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 5368 KB
+StackSize: 2030 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 1845 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 5632 KB
+StackSize: 2100 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 1930 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 5896 KB
+StackSize: 2170 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 2008 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 6160 KB
+StackSize: 2240 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 2109 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 6424 KB
+StackSize: 2311 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 2186 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 6688 KB
+StackSize: 2381 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 2262 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 7216 KB
+StackSize: 2451 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 2328 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 7480 KB
+StackSize: 2522 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 2401 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 7744 KB
+StackSize: 2592 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 2471 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 8008 KB
+StackSize: 2662 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 2530 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 8272 KB
+StackSize: 2733 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 2622 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 8536 KB
+StackSize: 2803 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 2692 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 8800 KB
+StackSize: 2873 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 2753 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 9064 KB
+StackSize: 2944 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 2812 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 9328 KB
+StackSize: 3014 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 2871 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 9592 KB
+StackSize: 3084 KB
+----------------------------
+StackLimit: 8388 KB
+User CPU time: 0 s, 2931 ms
+System CPU time: 0 s, 0 ms
+MaxRss: 9856 KB
+StackSize: 3155 KB
+----------------------------
